@@ -1,5 +1,11 @@
+html{
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
 body{
-  background-color: #47a6c3;;
+  background: linear-gradient(26deg, #47a6c3, #498e32);
+
 }
 table{
   border: 2px solid black;

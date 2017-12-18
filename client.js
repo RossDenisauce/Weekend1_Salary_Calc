@@ -47,8 +47,5 @@ function submitEmployee(){
 } // end submitEmployee function
 
 function removeEmployee(){
-
   $(this).closest('tr').remove();
-
-  computeSalary();
 } // end removeEmployee function
